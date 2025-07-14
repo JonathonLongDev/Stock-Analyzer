@@ -1,0 +1,10 @@
+First you must download the Stock Analysis Workbook.xlsx
+
+Next you will download the script and change the file path inside the script to the path of the Stock Analysis Workbook.xlsx
+It should look something like User/(Name)/Stock Analysis Workbook.xlsx or mini variations
+
+Next you can create a script to auto run the script
+here is the code to do that. Replace it with your filepath.
+@echo off
+"C:\Users\(Name of you)\Documents\Scripts\stock.py"
+pause
