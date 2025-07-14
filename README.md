@@ -13,4 +13,3 @@ Updates a Master Sheet: In addition to creating a detailed sheet for the individ
 
 Error Handling: The script includes error handling to manage situations where data might not be available or if it encounters issues with rate limiting from Yahoo Finance, making it more robust.
 
-Comments- Please make sure to download the Business Template Sheet Excel file to use
