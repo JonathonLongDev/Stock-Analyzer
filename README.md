@@ -9,6 +9,6 @@ Creates a New Excel Sheet: The script works with a pre-existing Excel file that 
 
 Populates the Sheet: It then populates this new sheet with all the gathered financial data, neatly organizing it with labels for clarity.
 
-Updates a Master Sheet: In addition to creating a detailed sheet for the individual stock, the script also updates a "Potential Stocks Mastersheet." It adds a new row with the company's name, its stock symbol, and a convenient hyperlink that takes you directly to the newly created detailed sheet for that stock.
+Updates a Master Sheet: In addition to creating a detailed sheet for the individual stock, the script also updates a "Stock Mastersheet." It adds a new row with the company's name, its stock symbol, and a convenient hyperlink that takes you directly to the newly created detailed sheet for that stock.
 
 Error Handling: The script includes error handling to manage situations where data might not be available or if it encounters issues with rate limiting from Yahoo Finance, making it more robust.
