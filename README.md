@@ -12,3 +12,5 @@ Populates the Sheet: It then populates this new sheet with all the gathered fina
 Updates a Master Sheet: In addition to creating a detailed sheet for the individual stock, the script also updates a "Stock Mastersheet." It adds a new row with the company's name, its stock symbol, and a convenient hyperlink that takes you directly to the newly created detailed sheet for that stock.
 
 Error Handling: The script includes error handling to manage situations where data might not be available or if it encounters issues with rate limiting from Yahoo Finance, making it more robust.
+
+Comments- Please make sure to download the Business Template Sheet Excel file to use
