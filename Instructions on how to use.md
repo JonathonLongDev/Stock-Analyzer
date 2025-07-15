@@ -8,8 +8,7 @@ Next you will download the Stock Analyzer.bat
 It will contain this
 
 @echo off
-"C:\Users\(Name of you)\Documents\Scripts\Stock Analyzer.py" # Edit this portion to the location of your Stock Analyzer.py Script
-pause
+"C:\Users\(Name of you)\Documents\Scripts\Stock Analyzer.py" (# Edit this portion to the location of your Stock Analyzer.py Script) pause
 
 
 Everything should be all set now
